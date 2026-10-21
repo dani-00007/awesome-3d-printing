@@ -430,7 +430,8 @@ Self-Hostable:
 [STLFixer]: https://stlfixer.io/
 [Vectary]: https://www.vectary.com/
 [Vectiler]: https://www.halfmaps.io/3d-map-exporter
-
+[The3DAI Lithophane Generator](https://the3dai.com/lithophane-generator) - Turn a photo into a lithophane STL in the browser.
+[The3DAI STL Repair](https://the3dai.com/stl-repair) - Repair holes and broken meshes in STL files in the browser, free.
 
 ## On Demand 3D Printing Services
 
